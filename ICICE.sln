@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICICE", "ICICE.csproj", "{FCE8601C-D562-47D4-93CC-68A8917EC915}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ICICE Database", "..\ICICE Database\ICICE Database.sqlproj", "{35F91DD9-A4CB-4298-B327-ACCCC10894C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE8601C-D562-47D4-93CC-68A8917EC915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE8601C-D562-47D4-93CC-68A8917EC915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE8601C-D562-47D4-93CC-68A8917EC915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE8601C-D562-47D4-93CC-68A8917EC915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F91DD9-A4CB-4298-B327-ACCCC10894C9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5094654F-EE69-4C6E-AD8D-1C871F4FEA4E}
+	EndGlobalSection
+EndGlobal
